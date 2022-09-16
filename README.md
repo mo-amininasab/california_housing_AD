@@ -1,4 +1,4 @@
-# california Housing Anomaly Detection
+# California Housing Anomaly Detection
 
 ![](./California_housing_plot.png)
 
